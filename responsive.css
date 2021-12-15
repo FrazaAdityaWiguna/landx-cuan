@@ -237,6 +237,9 @@
   .section-3 .title {
     margin-bottom: 32px;
   }
+  .section-3 .accordion-body {
+    font-size: 14px;
+  }
 
   .btn-white {
     font-size: 16px;
